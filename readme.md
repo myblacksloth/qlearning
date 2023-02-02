@@ -1,5 +1,7 @@
 # Reinforcement Learning & q-Taxi
 
+:tw-26a0: questa repository potrebbe contenere errori concettuali o nel codice
+
 ## Paradigma reale
 
 Il concetto è simile all'addestramento di un cane.
