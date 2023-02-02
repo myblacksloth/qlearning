@@ -1,6 +1,6 @@
 # Reinforcement Learning & q-Taxi
 
-## Paragigma reale
+## Paradigma reale
 
 Il concetto è simile all'addestramento di un cane.
 
