@@ -123,18 +123,14 @@ Tuttavia, l'agente (autista) non può compiere ogni azione quando desidera; esso
 
 Occorre installare il pacchetto gym in Python
 
-~~~py
-``` 
+```bash
 pip3 install gym
 ```
-~~~
 
 È possibile caricare l'ambiente e visulaizzarlo con
 
-~~~py
-```
+```python
 import gym
 env = gym.make("Taxi-v2").env
 env.render
 ```
-~~~
